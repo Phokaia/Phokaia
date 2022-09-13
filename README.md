@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phokaia
+- 👋 Hi, I’m @Tufan Tinc
 - 👀 I’m interested in Information technologies
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on Management skills
